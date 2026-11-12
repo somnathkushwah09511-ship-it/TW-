@@ -1,3 +1,5 @@
+SOMNATH KUSHWAH 
+2025UCP1679
 # Technical Writing & Documentation Notes
 
 Comprehensive, simplified, and practical reference notes compiled from the **Technical Writing (TW)** lecture series by **Dr. Neeta Nain (MNIT Jaipur)**.
